@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">rnPictionary</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">p5PaC-uNuhsTwrv2tmQIMXA_vGtI88A1clk9v</string>
+</resources>
